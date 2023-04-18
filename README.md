@@ -3,7 +3,7 @@ Use this starter project to practice the following:
 * Variables - creating, using, and reassigning.
 * User Input - getting user input and converting it for use.
 * Lists - creating and manipulating.
-* `if` statements - using 1, 2, and 3 branches
+* `if` statements
 * looping - with `for` and `foreach`
 
 ## Setup
